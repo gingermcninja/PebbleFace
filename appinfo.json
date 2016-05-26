@@ -1,0 +1,43 @@
+{
+    "appKeys": {
+        "action": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "gingermcninja@gmail.com",
+    "longName": "Remote",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Volume.png",
+                "name": "volume",
+                "type": "png"
+            },
+            {
+                "file": "images/TV.png",
+                "name": "channel",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_plus.png",
+                "name": "plus",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_minus.png",
+                "name": "minus",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Remote",
+    "uuid": "fb2d8d6d-f53c-49fc-8985-5fb9cd778827",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
